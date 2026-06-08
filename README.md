@@ -12,12 +12,14 @@ The platform enables students to connect with experienced alumni, gain industry 
 
 ## 🎯 Objectives
 
-- To create an intelligent platform connecting students and alumni.
-- To provide personalized job recommendations based on student skills and interests.
-- To analyze resumes using NLP techniques for skill extraction.
-- To facilitate alumni mentorship and career guidance.
-- To support placement cells in improving recruitment processes.
-- To enhance student career development through AI-driven recommendations.
+ - To develop a secure student registration and login system.
+ - To automate resume analysis using NLP techniques.
+ - To train a machine learning model for job prediction.
+ - To recommend personalized company drives for students.
+ - To provide a vacancy-sharing platform where alumni can post job openings,
+    internship opportunities, and recruitment updates from their organizations.
+ - To simplify placement management for administrators.
+
 
 ---
 
